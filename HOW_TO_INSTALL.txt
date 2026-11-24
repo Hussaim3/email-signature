@@ -1,0 +1,26 @@
+Mazher Hussain - 5-Style Email Signature Suite (Outlook & Gmail Safe)
+=====================================================================
+
+IMPORTANT: Why icons disappeared when testing in Gmail before
+Gmail removes offline base64 images the moment you click Send.
+Always follow Step 1 below first, then copy from 01-digital-command-centre.html
+(NEVER copy from ALL_5_SIGNATURES_PREVIEW.html into Gmail/Outlook).
+
+Step 1: Upload the "signature" folder to GitHub (1 minute)
+1. Go to GitHub repo: hussaim3/mazher-hussain-digital-portfolio
+2. Upload the entire "signature" folder (all PNG & JPG files inside) to the root folder and Commit.
+3. Wait 60 seconds so the images go live over HTTPS.
+
+Step 2: Copy & Paste into Outlook or Gmail
+1. Open your chosen live file in Chrome/Edge:
+   - 01-digital-command-centre.html  (Main Digital Command Centre - Outlook & Gmail fixed)
+   - 02-executive-blue-split.html    (Corporate Blue Split-Block)
+   - 03-minimal-clean-white.html     (Minimal Clean White + Teal Bar)
+   - 04-modern-monogram-card.html    (Modern MH Monogram Card)
+   - 05-executive-cta-banner.html    (Executive Consultant + Gold/Navy Banner)
+2. Press Ctrl+A then Ctrl+C.
+3. Paste (Ctrl+V) into:
+   - Outlook Web: Settings -> Mail -> Compose and reply -> Email signature -> Save
+   - Gmail: Settings -> See all settings -> General -> Signature -> Save Changes
+
+Now when you send emails from Gmail or Outlook, every icon, badge, and portrait stays 100% sharp with zero attachments.
